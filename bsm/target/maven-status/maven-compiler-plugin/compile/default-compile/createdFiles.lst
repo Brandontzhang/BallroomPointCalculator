@@ -1,0 +1,15 @@
+com\models\Competition.class
+com\models\Event$Style.class
+com\o2cmparser\EventParser.class
+com\o2cmparser\filters\FilterMethods\FilterMethod.class
+com\Application.class
+com\models\Event$Level.class
+com\models\PointTracker.class
+com\o2cmparser\filters\NodeFilter.class
+com\o2cmparser\RoundParser.class
+com\o2cmparser\filters\ElementsFilter.class
+com\o2cmparser\filters\FilterMethods\UserEventsFilter.class
+com\models\Event.class
+com\example\App.class
+com\o2cmparser\filters\FilterMethods\UserCompetitionFilter.class
+com\controller\PointController.class
